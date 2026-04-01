@@ -41,9 +41,9 @@ I enjoy connecting all parts of the stack → from user interface to data and in
   - Analyzing and transforming data into actionable insights using **Python** and **data analytics** techniques.
   - Experimenting with **Generative AI** models and LLM-based applications using LangChain and OpenAI APIs.
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-![Swetha-CT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swetha-CT&theme=vue-dark&hide_border=true)
+![Swetha-CT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swetha-CT&theme=vue-dark&hide_border=true) -->
 
 ## 📬 Get in Touch
 
