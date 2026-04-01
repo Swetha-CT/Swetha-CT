@@ -25,7 +25,7 @@ With a growing interest in machine learning, I build data-driven solutions that 
 
 ## 💡 What Drives Me
 
-I enjoy connecting all parts of the stack — from user interface to data and intelligence — to build systems that are not just functional, but impactful.
+I enjoy connecting all parts of the stack → from user interface to data and intelligence → to build systems that are not just functional, but impactful.
 
 ## 🛠️ Tech Stack
 
