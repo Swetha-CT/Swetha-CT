@@ -1,12 +1,12 @@
 # Hi, I'm Swetha! 👋
 
-I enjoy building end-to-end applications that combine intuitive user experiences with powerful backend systems. On the front end, I focus on designing responsive and user-friendly interfaces that make applications feel seamless and interactive.
+Instead of just writing code, I like building systems that connect the dots.
 
-Behind the scenes, I develop scalable backend systems and APIs using Python, ensuring efficient data flow and reliable performance across applications. I work with databases to structure, manage, and optimize data for real-world use cases.
+I enjoy taking an idea from a simple interface all the way to a working, scalable product → designing clean user experiences on the front end, building reliable APIs on the back end, and making sure everything works seamlessly in between.
 
-I also explore cloud technologies to deploy and scale applications, making them production-ready and accessible. Alongside this, I apply data analytics techniques to transform raw data into meaningful insights, helping drive informed decisions.
+What excites me most is what happens after the system is built → when data starts flowing. That’s where I dive into analytics and machine learning, turning raw data into insights, predictions, and decisions that actually matter.
 
-With a growing interest in machine learning, I build data-driven solutions that can identify patterns, predict outcomes, and solve practical problems.
+Lately, I’ve been exploring how to bring everything together → full-stack development, cloud deployment, and intelligent systems — to build applications that are not just functional, but thoughtful, data-driven, and impactful.
 
 ## 🚀 About Me
 
