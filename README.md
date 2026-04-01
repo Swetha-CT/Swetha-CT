@@ -6,7 +6,7 @@ I enjoy taking an idea from a simple interface all the way to a working, scalabl
 
 What excites me most is what happens after the system is built → when data starts flowing. That’s where I dive into analytics and machine learning, turning raw data into insights, predictions, and decisions that actually matter.
 
-Lately, I’ve been exploring how to bring everything together → full-stack development, cloud deployment, and intelligent systems — to build applications that are not just functional, but thoughtful, data-driven, and impactful.
+Lately, I’ve been exploring how to bring everything together → full-stack development, cloud deployment, and intelligent systems → to build applications that are not just functional, but thoughtful, data-driven, and impactful.
 
 ## 🚀 About Me
 
