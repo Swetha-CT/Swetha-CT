@@ -25,7 +25,7 @@ I am a passionate Master's in Computer Science student at University of Florida,
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swetha-CT&layout=compact&theme=vue-dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Swetha-CT&layout=compact&theme=vue-dark&hide_border=true)
 
 ![Swetha-CT's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swetha-CT&theme=vue-dark&hide_border=true)
 
