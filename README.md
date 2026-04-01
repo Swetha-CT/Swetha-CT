@@ -11,12 +11,12 @@ I am a passionate Master's in Computer Science student at University of Florida,
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,redux,html,css,tailwind,django,nodejs,postgres,mysql,mongodb,git,docker,kubernetes,aws,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,django,nodejs,mysql,mongodb,git,docker,kubernetes,aws,tensorflow,pytorch)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 **Full Stack Web Development & Generative AI**
-  - Exploring the ins and outs of **React** and **Redux** for dynamic front-end experiences.
+  - Exploring the ins and outs of full-stack development using **React**, **Node.js**, and **REST APIs** to build scalable and dynamic web applications.
   - Navigating through **React Router** for seamless page transitions.
   - Styling with **Tailwind CSS** to create modern and responsive user interfaces.
   - Building server-side applications with **Django**, a powerful Python web framework.
