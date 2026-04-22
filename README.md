@@ -29,7 +29,7 @@ I enjoy connecting all parts of the stack → from user interface to data and in
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,django,nodejs,scala,gcp,bigquery,mysql,mongodb,git,docker,kubernetes,aws,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,django,nodejs,scala,gcp,mysql,mongodb,git,docker,kubernetes,aws,tensorflow,pytorch)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
