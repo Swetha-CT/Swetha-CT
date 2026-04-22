@@ -29,7 +29,7 @@ I enjoy connecting all parts of the stack → from user interface to data and in
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,django,nodejs,mysql,mongodb,git,docker,kubernetes,aws,tensorflow,pytorch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,django,nodejs,airflow,dataproc,spark,scala,gcs,gcp,bigquery,mysql,mongodb,git,docker,kubernetes,aws,dataflow,tensorflow,pytorch)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -47,7 +47,7 @@ I enjoy connecting all parts of the stack → from user interface to data and in
 
 ## 📬 Get in Touch
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/swetha-c-4660a51b7/)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/swetha-c)
 - 📖 Read more of my articles on [Medium](https://medium.com/@swethac42)
 
 ---
