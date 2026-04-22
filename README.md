@@ -52,7 +52,7 @@ I enjoy connecting all parts of the stack → from user interface to data and in
 
 ## 📬 Get in Touch
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ch-swetha)
+- 💼 Connect with me on [LinkedIn](htps://www.linkedin.com/in/ch-swetha)
 - 📖 Read more of my articles on [Medium](https://medium.com/@swethac42)
 
 ---
