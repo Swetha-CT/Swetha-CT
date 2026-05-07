@@ -13,7 +13,7 @@ Lately, I’ve been exploring how to bring everything together → full-stack de
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at University of Florida.
+- 🔭 I recently completed my Master's in Computer Science at University of Florida.
 - 📝 I write in-depth, long-form articles on [Medium](https://medium.com/@swethac42).
 - 🌐 Proud member of [WiCSE](https://www.cise.ufl.edu/wicse/), contributing to the tech community.
 - 💡 Passionate about Full Stack Development, Machine Learning, and Data Analytics.
