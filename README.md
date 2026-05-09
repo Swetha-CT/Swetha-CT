@@ -14,7 +14,7 @@ Lately, I’ve been exploring how to bring everything together → full-stack de
 ## 🚀 About Me
 
 - 🔭 I recently completed my Master's in Computer Science at University of Florida.
-- 📝 I write in-depth, long-form articles on [Medium](https://medium.com/@swethac42).
+- 📝 I write in-depth, long-form articles on [Medium](https://medium.com/@swetha-ct).
 - 🌐 Proud member of [WiCSE](https://www.cise.ufl.edu/wicse/), contributing to the tech community.
 - 💡 Passionate about Full Stack Development, Machine Learning, and Data Analytics.
 
@@ -53,7 +53,7 @@ I enjoy connecting all parts of the stack → from user interface to data and in
 ## 📬 Get in Touch
 
 - 💼 Connect with me on [LinkedIn](htps://www.linkedin.com/in/ch-swetha)
-- 📖 Read more of my articles on [Medium](https://medium.com/@swethac42)
+- 📖 Read more of my articles on [Medium](https://medium.com/@swetha-ct)
 
 ---
 
